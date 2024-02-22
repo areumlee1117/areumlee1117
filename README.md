@@ -13,6 +13,14 @@
 ![Tech Blog Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
 ![Tech Blog Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white)
 
+### ⚡ Activity
+
+- [내일배움캠프 React_3기](https://nbcamp.spartacodingclub.kr/) (23.10 ~ 24.02)
+
+### 📚 Projects
+
+- [모두의 음식점, 모음(Web)](https://www.moeum.store/) - 정부와 지방자치단체가 선정한 우수업소인 착한가격업소를 모아 만들어진 서비스
+
 <!--
 **areumlee1117/areumlee1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
