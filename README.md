@@ -1,4 +1,4 @@
-[![Tech Blog Badge](http://img.shields.io/badge/-velog-4FC08D?style=flat-square&logo=github&link=https://velog.io/@iruphs/posts)](https://velog.io/@iruphs/posts)
+[![Tech Blog Badge](http://img.shields.io/badge/-velog-4FC08D?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@iruphs/posts)](https://velog.io/@iruphs/posts)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaareum17@gmail.com)](mailto:aaareum17@gmail.com)
 
 ### 👩🏻‍💻 Lee A Reum
